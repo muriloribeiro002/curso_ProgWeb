@@ -1,0 +1,23 @@
+a{
+  color:rgb(211, 1, 36);
+  text-decoration: none;
+}
+
+body{
+  background: rgb(223, 128, 106);
+  padding: 0px 20px;
+}
+
+h1,h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(79, 11, 0);
+}
+
+img{
+  display: inline;
+}
+
+p{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: inline;
+}
